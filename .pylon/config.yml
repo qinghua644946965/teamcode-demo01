@@ -1,0 +1,6 @@
+image:
+  registry: node:16.13.1-stretch
+
+network:
+  ports:
+    - 8080:8080
